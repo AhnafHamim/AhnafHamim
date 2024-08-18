@@ -4,14 +4,14 @@
 
 <div align="center">
   
-# I'm Tameem Ahmed
+# I'm Ahnaf Hamim
 
 </div>
-<h3 align="center">Full-Stack Software Engineer</h3>
+<h3 align="center">Full-Stack and Mobile App Developer</h3>
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
-<a href="https://linkedin.com/in/tameemahmed1/" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="tameemahmed1/"/></a><a href = "mailto: tameemisone786@gmail.com"><img align="center"src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+<a href="https://linkedin.com/in/ahnaf-hamim/" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="ahnaf-hamim/"/></a><a href = "mailto: hamim.ahnaf@gmail.com"><img align="center"src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 </p>
 <br>
 
