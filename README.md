@@ -67,8 +67,8 @@
 
 <div align="center">
   <div style="display: flex; justify-content: center;">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=dameme1&show_icons=true&locale=en&layout=compact&theme=algolia" alt="dameme1" />
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dameme1&layout=compact&theme=algolia" alt="Top Langs" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=ahnafhamim&show_icons=true&locale=en&layout=compact&theme=algolia" alt="ahnafhamim" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahnafhamim&layout=compact&theme=algolia" alt="Top Langs" />
   </div>
 </div>
 
